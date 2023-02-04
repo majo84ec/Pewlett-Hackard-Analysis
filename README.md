@@ -21,10 +21,14 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 
 ![image](https://user-images.githubusercontent.com/120151872/216792547-b1a516e3-416d-401b-b311-365fd056f4f5.png)
 
--
-.
+- Company should hire people to cover 70909 positions for the "silver tsumanmi".
+  
+
 ## Summary: 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact? 76458 roles
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? No , if you considered the employees with date of birth in 1965 year there are only 1549 employees.
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact? 76458 roles
+-  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? No , if you considered the employees with date of birth in 1965 year there are only 1549 employees to become mentors. It is only 20% of new employees.
+
+
+
 
 
