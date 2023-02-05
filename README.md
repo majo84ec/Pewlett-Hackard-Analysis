@@ -32,6 +32,12 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 
 ![image](https://user-images.githubusercontent.com/120151872/216800794-914522ca-216b-4264-8191-9f032a04c16d.png)
 
+![image](https://user-images.githubusercontent.com/120151872/216801226-5101f860-d651-4eee-aa7b-fa02d8d766b9.png)
+
+Also, the number of retired people can be analyzed by gender and position (title).
+
+![image](https://user-images.githubusercontent.com/120151872/216801408-b22c0024-0437-4d30-9bee-2e5ac3d9fc01.png)
+
 -  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? : No , there are 1549 employees who are considerate as mentors. It is only 20% of total of retired people.
 Having 1:1 mentor is not viable for Pewlett-Hackard , the table below shows actual number of mentors by title.
 
