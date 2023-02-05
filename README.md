@@ -29,8 +29,9 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 
 ## Summary: 
 -  How many roles will need to be filled as the "silver tsunami" begins to make an impact?: 76458 roles
--  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? : No , therea are 1549 employees who are considerate as mentors. It is only 20% of total of new positions.
+-  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? : No , there are 1549 employees who are considerate as mentors. It is only 20% of total of new positions.
 Having 1:1 mentor is not viable for Pewlett-Hackard , the table below shows actual number of mentors by title.
+
 ![image](https://user-images.githubusercontent.com/120151872/216797631-399b046b-f176-4b80-943a-35f01f7fa0d7.png)
 
 
