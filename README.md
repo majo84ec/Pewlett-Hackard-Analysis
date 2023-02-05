@@ -10,8 +10,9 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 - The total number of employees who will retire is 76458 . The table below show the number of positions and titles.
                            ![image](https://user-images.githubusercontent.com/120151872/216791893-ed294259-4036-4cde-adc0-b0470b710d93.png)
 
+[retiring_titles.csv](https://github.com/majo84ec/Pewlett-Hackard-Analysis/files/10610055/retiring_titles.csv)
 
-- 70% of future retired employees are Senior Level positions. Follow
+- 70% of future retired employees are Senior Level positions. 
 
 ![image](https://user-images.githubusercontent.com/120151872/216791841-403bfcfc-a06e-49c3-8a84-df95b8a95262.png)
 
@@ -21,7 +22,9 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 
 ![image](https://user-images.githubusercontent.com/120151872/216792547-b1a516e3-416d-401b-b311-365fd056f4f5.png)
 
-- Company will have a gap of  70909 mentors 1:1 for the "silver tsumanmi".
+[mentorship_eligibilty.csv](https://github.com/majo84ec/Pewlett-Hackard-Analysis/files/10610060/mentorship_eligibilty.csv)
+
+- Company will have a gap of  70909 mentors for the "silver tsumanmi".
   
 
 ## Summary: 
