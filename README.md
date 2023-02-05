@@ -12,9 +12,9 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
 
 [retiring_titles.csv](https://github.com/majo84ec/Pewlett-Hackard-Analysis/files/10610055/retiring_titles.csv)
 
-- 70% of future retired employees are Senior Level positions. 
+- 70% of future retired employees are Senior Engineers and Staff . However, the company will expect few retired Managers. 
 
-![image](https://user-images.githubusercontent.com/120151872/216791841-403bfcfc-a06e-49c3-8a84-df95b8a95262.png)
+![barchart](https://user-images.githubusercontent.com/120151872/216799421-5c1066d6-3cc1-4712-ba18-4acc6aa3464f.png)
 
 ### Analysis 2: Mentorship Program.
 
@@ -28,11 +28,15 @@ Pewlett Hackard is a large company boasting several thousand employees, and it's
   
 
 ## Summary: 
--  How many roles will need to be filled as the "silver tsunami" begins to make an impact?: 76458 roles
--  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? : No , there are 1549 employees who are considerate as mentors. It is only 20% of total of new positions.
+-  How many roles will need to be filled as the "silver tsunami" begins to make an impact?: 76458 roles, where 38% (29030) are women and 68% (43428) are men.
+
+![image](https://user-images.githubusercontent.com/120151872/216800794-914522ca-216b-4264-8191-9f032a04c16d.png)
+
+-  Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees? : No , there are 1549 employees who are considerate as mentors. It is only 20% of total of retired people.
 Having 1:1 mentor is not viable for Pewlett-Hackard , the table below shows actual number of mentors by title.
 
-![image](https://user-images.githubusercontent.com/120151872/216797631-399b046b-f176-4b80-943a-35f01f7fa0d7.png)
+![image](https://user-images.githubusercontent.com/120151872/216800970-343dbb23-f74e-44a5-8fa1-42d2360503be.png)
+
 
 
 
